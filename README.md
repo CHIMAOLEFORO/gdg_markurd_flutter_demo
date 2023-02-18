@@ -1,4 +1,4 @@
-# GDG Makurdi
+# GDG Makurdi 2023 - Flutter Learning Track
 
 This is a starter project for the flutter Learning Track - Google Developer Group - Makurdi.
 
